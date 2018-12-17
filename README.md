@@ -2,7 +2,7 @@
 
 Experimental programming language written in Go.
 
-The project is meant for educational purposes, so to learn how programming languages work and is not indented to be a programming languages for production processes. 
+This project is for educational purposes, so to learn how programming languages work and is not indented to be a programming language for production ready applications. 
 
 All the steps are different branches.
 
